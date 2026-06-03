@@ -1,0 +1,21 @@
+#blue{
+    color: blue;
+}
+.black{
+    font-weight: 100;
+}
+.cyan{
+    color: rgb(0, 174, 255);
+
+}
+#pink{
+    color: magenta;
+}
+#yellow{
+    color: gold;
+    font-weight: 150;
+}
+#grey{
+    color: gray;
+    font-weight: 100;
+}
