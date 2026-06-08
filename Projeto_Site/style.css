@@ -1,0 +1,28 @@
+
+.first{
+    background-color: darkblue;
+    color: white;
+}
+.second{
+    font-weight: 1000px;
+
+}
+.third{
+    background-color: white;
+    font-weight: 10;
+    line-height: 30px;
+}
+.fourth{
+    background-color: darkblue;
+    color: lightskyblue;
+    font-weight: 10;
+}
+.cor{
+    color: red;
+}
+.fundo{
+    background-color: white;
+}
+.tudo{
+    background-color: lightblue;
+}
