@@ -1,0 +1,20 @@
+*{
+    line-height: 5px;
+}
+#Quadrado{
+    background-color: rgb(77, 77, 77);
+    width: 260px;
+    padding: 18px;
+    border-radius: 15px;
+    padding-bottom: 1px;
+    
+}
+.first{
+    color: cyan;
+    font-weight: 1;
+}
+.second{
+    color: aliceblue;
+    font-weight: 1;
+    font-size: 12px;
+}

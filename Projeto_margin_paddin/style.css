@@ -16,6 +16,7 @@
 }
 .MarginPadding{
     color: white;
-    margin: 20px; padding: 20px;
+    margin: 20px;
+    padding: 20px;
     background-color: orangered;
 }
