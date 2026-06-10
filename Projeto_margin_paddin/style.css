@@ -1,0 +1,21 @@
+.color{
+    background-color: rgb(0, 0, 53);
+}
+#h1{
+    color: cyan
+}
+.Padding{
+    color: white;
+    padding: 30px;
+    background-color: rgba(42, 134, 255, 0.788);
+}
+.Margin{
+    color: white;
+    margin: 30px;
+    background-color: green;
+}
+.MarginPadding{
+    color: white;
+    margin: 20px; padding: 20px;
+    background-color: orangered;
+}
