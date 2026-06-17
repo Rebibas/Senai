@@ -1,0 +1,35 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+header{
+    padding: 30px 80px;
+    display: flex;
+    justify-content: row;
+    justify-content: space-between;
+    background-color: #D9D9D9;
+    align-items: center;
+}
+.links{
+    display: flex;
+    gap: 20px;
+}
+.links a {
+    color: black;
+    text-decoration: none;
+}
+.HERO{
+    font-size: 30px;
+    color: #434343;
+    height: 580px;
+    background-color: #767676;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+footer{
+    background-color:#D9D9D9;
+    text-align: center;
+    padding: 20px 0px;
+}
