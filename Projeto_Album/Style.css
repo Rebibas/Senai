@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #5937D7
+}
+h1{
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.Album{
+    width: 550px;
+    height: 678px;
+    background-size: cover;
+    background-image: url(Assets/img00.png);
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 30px 0px;
+}
