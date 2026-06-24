@@ -1,0 +1,86 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.links{
+    font-size: small;
+    margin:  0px 575px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    max-width: 168px;
+    align-items: end;
+}
+.link{
+    text-decoration: none;
+    color: #00C200;
+    border: 1px solid #00C200;
+    padding: 8px 20px;
+    text-align:center;
+    border-radius: 5px;
+}
+.link:hover{
+    background-color: #00C200;
+    border: 1px solid white;
+    color: white;
+}
+.link-01{
+    background-color: #00C200;
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    padding: 8px 20px;
+    text-align:center;
+    border-radius: 5px;
+}
+.link-01:hover{
+    background-color: #ffffff;
+    border: 1px solid #00C200;
+    color: #00C200;
+}
+.cards{
+
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    max-width: 950px;
+    margin: 0 auto;
+}
+.card{
+    width: 300px;
+    padding: 15px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 10px;
+    border: 1px solid #D8D8D8;
+    border-radius: 5px;
+}
+.img{
+    border: 1px solid #DBDBDB;
+    border-radius: 7px;
+}
+.botao_compra{
+    text-decoration: none;
+    text-align: center;
+    background-color: #00C200;
+    color: white;
+    padding: 8px;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-radius: 10px;
+    font-size: 16px;
+    border: none;
+}
+.botao_compra:hover{
+    background-color: transparent;
+    border: 1px solid #00C200;
+    color: #00C200;
+}
+
+
+
+
