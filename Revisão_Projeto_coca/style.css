@@ -124,6 +124,12 @@ body{
     background-color: black;
     display: flex;
     justify-content: space-between;
+    
+}
+.socials{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
 }
 .socials a{
     width: 32px;
@@ -131,13 +137,17 @@ body{
 }
 .instagram{
     background-image: url(assets/faInstagram.png);
+    background-size: contain;
 }
 .linkedin{
     background-image: url(assets/faLinkedin.png);
+    background-size: contain;
 }
 .facebook{
     background-image: url(assets/faFacebookSquare.png);
+    background-size: contain;
 }
 .youtube{
     background-image: url(assets/faYoutube.png);
+    background-size: contain;
 }
