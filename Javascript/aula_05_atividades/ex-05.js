@@ -1,5 +1,5 @@
 let letra = 'e'
-if(letra = 'a'||'e'||'i'||'o'||'u'){
+if(letra == 'a'||letra =='e'||letra =='i'||letra =='o'||letra =='u'){
     console.log("letra é vogal")
 }
 else {
