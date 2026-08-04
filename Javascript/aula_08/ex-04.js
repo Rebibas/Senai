@@ -1,10 +1,8 @@
-let alunos = [
-    {nome: "Igor", nota: 9},
-    {nome:"Caetano", nota: 6.7}
-]
+let numeros=[5,12,8,21,3,15]
 
-let aprovados = alunos.filter(function(alunos){
-    return alunos >= 7
+let final=numeros.filter(function(item){
+    return item>10
+}).map(function(item){
+    return item*2
 })
-
-console.log (aprovados)
+console.log(final)

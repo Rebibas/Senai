@@ -1,9 +1,6 @@
-let alunos = [{nome: "Igor", nota:9},
-    {nome: "Caetano", nota:67}
-]
+let precos = [10,25,40,100]
 
-let nomes = alunos.map(function(aluno){
-    return aluno.nome 
+let maiores = precos.filter(function(item){
+    return item>20
 })
-
-console.log (nomes)
+console.log(maiores)

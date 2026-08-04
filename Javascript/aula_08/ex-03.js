@@ -1,7 +1,8 @@
-let numeros = [2,6,30,28,65,11]
-
-let maiores = numeros.filter(function(n){
-    return n>29
+let contatos=[
+    {id:1, nome:"Igor"},
+    {id:2, nome:"Gustavo"}
+]
+let encontrado=contatos.find(function(item){
+    return item.id === 2
 })
-
-console.log (maiores)
+console.log(encontrado)
